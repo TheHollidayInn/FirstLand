@@ -1,0 +1,2901 @@
+[
+  {
+    "X": 145.7240013083154,
+    "Y": 15.215015174455337,
+    "UNIT_NAME": "American Memorial Park",
+    "STATE": "MP",
+    "UNIT_TYPE": "Park",
+    "image": "https://www.nps.gov/common/uploads/grid_builder/amme/crop16_9/30E42853-1DD8-B71B-0B9BEE29DD29558C.jpg?width=950&quality=90&mode=crop"
+  },
+  {
+    "X": -122.68771590469086,
+    "Y": 48.21401400265372,
+    "UNIT_NAME": "Ebey's Landing National Historical Reserve",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Historical Reserve"
+  },
+  {
+    "X": -118.71515359014317,
+    "Y": 47.911637502205956,
+    "UNIT_NAME": "Lake Roosevelt National Recreation Area",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -124.06763244496022,
+    "Y": 46.28618253637479,
+    "UNIT_NAME": "Lewis and Clark National Historical Park",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -123.61834533770171,
+    "Y": 47.79456548554004,
+    "UNIT_NAME": "Olympic National Park",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -118.72017962014037,
+    "Y": 34.083770845322654,
+    "UNIT_NAME": "Santa Monica Mountains National Recreation Area",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -115.35231390113321,
+    "Y": 36.4060243144091,
+    "UNIT_NAME": "Tule Springs Fossil Beds National Monument",
+    "STATE": "NV",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -68.2441099861646,
+    "Y": 44.35073179524609,
+    "UNIT_NAME": "Acadia National Park",
+    "STATE": "ME",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -155.506758655116,
+    "Y": 19.131537048151525,
+    "UNIT_NAME": "Ala Kahakai National Historic Trail",
+    "STATE": "HI",
+    "UNIT_TYPE": "National Historic Trail"
+  },
+  {
+    "X": -101.29593462424785,
+    "Y": 29.57479056538559,
+    "UNIT_NAME": "Amistad National Recreation Area",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -80.38107676684304,
+    "Y": 37.35175454071633,
+    "UNIT_NAME": "Appalachian National Scenic Trail",
+    "STATE": "ME",
+    "UNIT_TYPE": "National Scenic Trail"
+  },
+  {
+    "X": -75.24962441982497,
+    "Y": 38.0390272907927,
+    "UNIT_NAME": "Assateague Island National Seashore",
+    "STATE": "MD",
+    "UNIT_TYPE": "National Seashore"
+  },
+  {
+    "X": -81.08115282220987,
+    "Y": 25.970432921376172,
+    "UNIT_NAME": "Big Cypress National Preserve",
+    "STATE": "FL",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -84.66512170364234,
+    "Y": 36.53466562446502,
+    "UNIT_NAME": "Big South Fork National River and Recreation Area",
+    "STATE": "TN",
+    "UNIT_TYPE": "National River and Recreation Area"
+  },
+  {
+    "X": -81.07056465573876,
+    "Y": 36.43649862527681,
+    "UNIT_NAME": "Blue Ridge Parkway",
+    "STATE": "NC",
+    "UNIT_TYPE": "Parkway"
+  },
+  {
+    "X": -80.96082026944177,
+    "Y": 37.58996387697973,
+    "UNIT_NAME": "Bluestone National Scenic River",
+    "STATE": "WV",
+    "UNIT_TYPE": "National Scenic River"
+  },
+  {
+    "X": -75.53119353118758,
+    "Y": 35.24241197540245,
+    "UNIT_NAME": "Cape Hatteras National Seashore",
+    "STATE": "NC",
+    "UNIT_TYPE": "National Seashore"
+  },
+  {
+    "X": -76.19003925692128,
+    "Y": 34.95824425036411,
+    "UNIT_NAME": "Cape Lookout National Seashore",
+    "STATE": "NC",
+    "UNIT_TYPE": "National Seashore"
+  },
+  {
+    "X": -84.26676470628281,
+    "Y": 33.972410535021375,
+    "UNIT_NAME": "Chattahoochee River National Recreation Area",
+    "STATE": "GA",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -85.25401190905785,
+    "Y": 34.91896903303031,
+    "UNIT_NAME": "Chickamauga and Chattanooga National Military Park",
+    "STATE": "GA",
+    "UNIT_TYPE": "National Military Park"
+  },
+  {
+    "X": -77.94484191014905,
+    "Y": 39.59965160199015,
+    "UNIT_NAME": "Chesapeake and Ohio Canal National Historical Park",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -81.45253384906684,
+    "Y": 30.858526642164232,
+    "UNIT_NAME": "Cumberland Island National Seashore",
+    "STATE": "GA",
+    "UNIT_TYPE": "National Seashore"
+  },
+  {
+    "X": -80.88182401337437,
+    "Y": 25.372167622977642,
+    "UNIT_NAME": "Everglades National Park",
+    "STATE": "FL",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -72.99435226388039,
+    "Y": 40.69182964960107,
+    "UNIT_NAME": "Fire Island National Seashore",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Seashore"
+  },
+  {
+    "X": -75.70938760895999,
+    "Y": 35.93636826617483,
+    "UNIT_NAME": "Fort Raleigh National Historic Site",
+    "STATE": "NC",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -81.00420199680673,
+    "Y": 38.20614200275384,
+    "UNIT_NAME": "Gauley River National Recreation Area",
+    "STATE": "WV",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -83.52627531657588,
+    "Y": 35.6092747134311,
+    "UNIT_NAME": "Great Smoky Mountains National Park",
+    "STATE": "NC",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -75.14692521397583,
+    "Y": 39.94537370246115,
+    "UNIT_NAME": "Independence National Historical Park",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -88.82842252183117,
+    "Y": 48.010954845029055,
+    "UNIT_NAME": "Isle Royale National Park",
+    "STATE": "MI",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -101.69709843106881,
+    "Y": 35.595856908928894,
+    "UNIT_NAME": "Lake Meredith National Recreation Area",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -71.33094285299948,
+    "Y": 42.64646573492036,
+    "UNIT_NAME": "Lowell National Historical Park",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -92.93011156070692,
+    "Y": 44.77223486285077,
+    "UNIT_NAME": "Mississippi National River and Recreation Area",
+    "STATE": "MN",
+    "UNIT_TYPE": "National River and Recreation Area"
+  },
+  {
+    "X": -116.2780220504039,
+    "Y": 45.794279287683686,
+    "UNIT_NAME": "Nez Perce National Historical Park",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -80.98970436401575,
+    "Y": 37.84026469333756,
+    "UNIT_NAME": "New River Gorge National River",
+    "STATE": "VA",
+    "UNIT_TYPE": "National River"
+  },
+  {
+    "X": -84.72244777883839,
+    "Y": 36.08458016078506,
+    "UNIT_NAME": "Obed Wild and Scenic River",
+    "STATE": "TN",
+    "UNIT_TYPE": "Wild and Scenic River"
+  },
+  {
+    "X": -91.40874101460454,
+    "Y": 32.635298452613505,
+    "UNIT_NAME": "Poverty Point National Monument",
+    "STATE": "LA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -124.03165508401956,
+    "Y": 41.37133097014511,
+    "UNIT_NAME": "Redwood National Park",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -102.52897061841081,
+    "Y": 29.757557330452077,
+    "UNIT_NAME": "Rio Grande Wild and Scenic River",
+    "STATE": "TX",
+    "UNIT_TYPE": "Wild and Scenic River"
+  },
+  {
+    "X": -66.11749020455217,
+    "Y": 18.468843490818212,
+    "UNIT_NAME": "San Juan National Historic Site",
+    "STATE": "PR",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -78.67619962854887,
+    "Y": 38.281065415065186,
+    "UNIT_NAME": "Shenandoah National Park",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -88.34213102144577,
+    "Y": 35.138522043363494,
+    "UNIT_NAME": "Shiloh National Battlefield",
+    "STATE": "MS",
+    "UNIT_TYPE": "National Battlefield"
+  },
+  {
+    "X": -86.01521887915943,
+    "Y": 45.11160541658132,
+    "UNIT_NAME": "Sleeping Bear Dunes National Lakeshore",
+    "STATE": "MI",
+    "UNIT_TYPE": "National Lakeshore"
+  },
+  {
+    "X": -75.67037250685117,
+    "Y": 41.40757513660014,
+    "UNIT_NAME": "Steamtown National Historic Site",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -86.4340800351684,
+    "Y": 35.87318749202325,
+    "UNIT_NAME": "Stones River National Battlefield",
+    "STATE": "TN",
+    "UNIT_TYPE": "National Battlefield"
+  },
+  {
+    "X": -81.471408324552,
+    "Y": 30.431089835761373,
+    "UNIT_NAME": "Timucuan Ecological and Historic Preserve",
+    "STATE": "FL",
+    "UNIT_TYPE": "Ecological and Historic Preserve"
+  },
+  {
+    "X": -90.84309723783834,
+    "Y": 32.36451085112504,
+    "UNIT_NAME": "Vicksburg National Military Park",
+    "STATE": "LA",
+    "UNIT_TYPE": "National Military Park"
+  },
+  {
+    "X": -78.31608608945226,
+    "Y": 38.99237929600568,
+    "UNIT_NAME": "Cedar Creek and Belle Grove National Historical Park",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -107.42863629073132,
+    "Y": 45.56505378834822,
+    "UNIT_NAME": "Little Bighorn Battlefield National Monument",
+    "STATE": "MT",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -103.97104276279491,
+    "Y": 36.78171067839882,
+    "UNIT_NAME": "Capulin Volcano National Monument",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -109.45113171265257,
+    "Y": 32.149259156412725,
+    "UNIT_NAME": "Fort Bowie National Historic Site",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -108.27329582097128,
+    "Y": 33.22760971211433,
+    "UNIT_NAME": "Gila Cliff Dwellings National Monument",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -77.53003925994872,
+    "Y": 38.820771032329034,
+    "UNIT_NAME": "Manassas National Battlefield Park",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Battlefield Park"
+  },
+  {
+    "X": -111.0477639846243,
+    "Y": 31.57283049454118,
+    "UNIT_NAME": "Tumacacori National Historical Park",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -112.02790703524802,
+    "Y": 34.772963338982166,
+    "UNIT_NAME": "Tuzigoot National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -108.68595484656196,
+    "Y": 37.24895444427053,
+    "UNIT_NAME": "Yucca House National Monument",
+    "STATE": "CO",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -77.26355408211865,
+    "Y": 38.937931897740064,
+    "UNIT_NAME": "Wolf Trap National Park for the Performing Arts",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -77.40246951453574,
+    "Y": 39.357697652919484,
+    "UNIT_NAME": "Monocacy National Battlefield",
+    "STATE": "MD",
+    "UNIT_TYPE": "National Battlefield"
+  },
+  {
+    "X": -77.73805180056483,
+    "Y": 39.470106714903885,
+    "UNIT_NAME": "Antietam National Battlefield",
+    "STATE": "MD",
+    "UNIT_TYPE": "National Battlefield"
+  },
+  {
+    "X": -81.31217173108864,
+    "Y": 29.897857001429937,
+    "UNIT_NAME": "Castillo de San Marcos National Monument",
+    "STATE": "FL",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -111.70939437005946,
+    "Y": 40.44039703644736,
+    "UNIT_NAME": "Timpanogos Cave National Monument",
+    "STATE": "UT",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -77.06241914303075,
+    "Y": 38.89584149139352,
+    "UNIT_NAME": "Theodore Roosevelt Island National Memorial",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -77.05145830058254,
+    "Y": 38.878580323839344,
+    "UNIT_NAME": "Lyndon Baines Johnson Memorial Grove on the Potomac",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -77.07460869303974,
+    "Y": 38.88255198977819,
+    "UNIT_NAME": "Arlington House, The Robert E. Lee Memorial",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -83.60635656413164,
+    "Y": 36.631263835337016,
+    "UNIT_NAME": "Cumberland Gap National Historical Park",
+    "STATE": "KY",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -111.40363550737108,
+    "Y": 35.56118272849665,
+    "UNIT_NAME": "Wupatki National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -76.90069151679292,
+    "Y": 38.98403277424066,
+    "UNIT_NAME": "Greenbelt Park",
+    "STATE": "MD",
+    "UNIT_TYPE": "Other Designation"
+  },
+  {
+    "X": -88.73708622728343,
+    "Y": 34.25557704996243,
+    "UNIT_NAME": "Tupelo National Battlefield",
+    "STATE": "MS",
+    "UNIT_TYPE": "National Battlefield"
+  },
+  {
+    "X": -88.72889342750055,
+    "Y": 34.50611958108254,
+    "UNIT_NAME": "Brices Cross Roads National Battlefield Site",
+    "STATE": "MS",
+    "UNIT_TYPE": "National Battlefield Site"
+  },
+  {
+    "X": -122.87970440776165,
+    "Y": 38.05500554598783,
+    "UNIT_NAME": "Point Reyes National Seashore",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Seashore"
+  },
+  {
+    "X": -79.87933363990291,
+    "Y": 32.753594266691046,
+    "UNIT_NAME": "Fort Sumter National Monument",
+    "STATE": "SC",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -105.28033940403328,
+    "Y": 38.91260206422338,
+    "UNIT_NAME": "Florissant Fossil Beds National Monument",
+    "STATE": "CO",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -111.11356290310482,
+    "Y": 33.648428847443796,
+    "UNIT_NAME": "Tonto National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -73.92671769387273,
+    "Y": 41.768041187773164,
+    "UNIT_NAME": "Home of Franklin D. Roosevelt National Historic Site",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -82.01636093049464,
+    "Y": 34.14273510324741,
+    "UNIT_NAME": "Ninety Six National Historic Site",
+    "STATE": "SC",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -79.82487582252699,
+    "Y": 32.84577390920645,
+    "UNIT_NAME": "Charles Pinckney National Historic Site",
+    "STATE": "SC",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -64.62221751408403,
+    "Y": 17.810264542253186,
+    "UNIT_NAME": "Buck Island Reef National Monument",
+    "STATE": "VI",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -77.0243087531092,
+    "Y": 38.9108851132059,
+    "UNIT_NAME": "Carter G. Woodson National Historic Site",
+    "STATE": "MD",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -112.84526808632371,
+    "Y": 37.635450879021285,
+    "UNIT_NAME": "Cedar Breaks National Monument",
+    "STATE": "UT",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -97.3406806748954,
+    "Y": 26.70366538043652,
+    "UNIT_NAME": "Padre Island National Seashore",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Seashore"
+  },
+  {
+    "X": -109.58634977907322,
+    "Y": 38.722538647211465,
+    "UNIT_NAME": "Arches National Park",
+    "STATE": "UT",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -70.8761788998117,
+    "Y": 42.262198836984346,
+    "UNIT_NAME": "Boston Harbor Islands National Recreation Area",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -111.51037604144402,
+    "Y": 35.371142025306675,
+    "UNIT_NAME": "Sunset Crater Volcano National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -77.03096513102398,
+    "Y": 38.9081833205783,
+    "UNIT_NAME": "Mary McLeod Bethune Council House National Historic Site",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -77.0256597420414,
+    "Y": 38.8966622634017,
+    "UNIT_NAME": "Ford's Theatre National Historic Site",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -95.67640761920877,
+    "Y": 39.037932612749124,
+    "UNIT_NAME": "Brown v. Board of Education National Historic Site",
+    "STATE": "KS",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -112.73985668068056,
+    "Y": 36.862826640409345,
+    "UNIT_NAME": "Pipe Spring National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -108.34639839125803,
+    "Y": 35.03895883877716,
+    "UNIT_NAME": "El Morro National Monument",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -97.00715805872616,
+    "Y": 34.460493736193754,
+    "UNIT_NAME": "Chickasaw National Recreation Area",
+    "STATE": "OK",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -82.83814049531392,
+    "Y": 36.15536303109368,
+    "UNIT_NAME": "Andrew Johnson National Historic Site",
+    "STATE": "TN",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -73.82577276572114,
+    "Y": 40.89283511110837,
+    "UNIT_NAME": "Saint Paul's Church National Historic Site",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -74.0168055799072,
+    "Y": 40.70347794954398,
+    "UNIT_NAME": "Castle Clinton National Monument",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -110.76247138156184,
+    "Y": 41.85634277015152,
+    "UNIT_NAME": "Fossil Butte National Monument",
+    "STATE": "WY",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -91.20777103584723,
+    "Y": 43.09145766305364,
+    "UNIT_NAME": "Effigy Mounds National Monument",
+    "STATE": "IA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -89.61689890251279,
+    "Y": 43.077588232901356,
+    "UNIT_NAME": "Ice Age National Scenic Trail",
+    "STATE": "WI",
+    "UNIT_TYPE": "National Scenic Trail"
+  },
+  {
+    "X": -109.0684512503505,
+    "Y": 37.38353900013734,
+    "UNIT_NAME": "Hovenweep National Monument",
+    "STATE": "UT",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -105.0120173735681,
+    "Y": 35.907370749642844,
+    "UNIT_NAME": "Fort Union National Monument",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -85.64442061547842,
+    "Y": 37.61197573012023,
+    "UNIT_NAME": "Abraham Lincoln Birthplace National Historical Park",
+    "STATE": "KY",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -82.8717906546284,
+    "Y": 24.648830269950786,
+    "UNIT_NAME": "Dry Tortugas National Park",
+    "STATE": "FL",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -81.3898425624802,
+    "Y": 31.223555105541724,
+    "UNIT_NAME": "Fort Frederica National Monument",
+    "STATE": "GA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -77.05511417070105,
+    "Y": 38.68388278062404,
+    "UNIT_NAME": "Piscataway Park",
+    "STATE": "MD",
+    "UNIT_TYPE": "Other Designation"
+  },
+  {
+    "X": -118.1547177594057,
+    "Y": 36.72559147267387,
+    "UNIT_NAME": "Manzanar National Historic Site",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -112.18271108148646,
+    "Y": 37.58389809582221,
+    "UNIT_NAME": "Bryce Canyon National Park",
+    "STATE": "UT",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -110.7280424457781,
+    "Y": 44.0886978252922,
+    "UNIT_NAME": "John D. Rockefeller, Jr., Memorial Parkway",
+    "STATE": "WY",
+    "UNIT_TYPE": "National Parkway"
+  },
+  {
+    "X": -94.35522735102803,
+    "Y": 36.98713202767607,
+    "UNIT_NAME": "George Washington Carver National Monument",
+    "STATE": "MO",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -74.23982096942335,
+    "Y": 40.7859707472131,
+    "UNIT_NAME": "Thomas Edison National Historical Park",
+    "STATE": "NJ",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -110.54719621250358,
+    "Y": 44.59644456491948,
+    "UNIT_NAME": "Yellowstone National Park",
+    "STATE": "WY",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -109.55995158879173,
+    "Y": 35.707273162437524,
+    "UNIT_NAME": "Hubbell Trading Post National Historic Site",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -106.45440112555795,
+    "Y": 31.767296318511434,
+    "UNIT_NAME": "Chamizal National Memorial",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -155.60285510079473,
+    "Y": 19.37757747892663,
+    "UNIT_NAME": "Hawai'i Volcanoes National Park",
+    "STATE": "HI",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -101.67170125416966,
+    "Y": 35.58196523332099,
+    "UNIT_NAME": "Alibates Flint Quarries National Monument",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -155.82116293194653,
+    "Y": 20.027721828022255,
+    "UNIT_NAME": "Pu'ukohola Heiau National Historic Site",
+    "STATE": "HI",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -90.35169255021191,
+    "Y": 38.551823730928525,
+    "UNIT_NAME": "Ulysses S. Grant National Historic Site",
+    "STATE": "MO",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -80.75412332413568,
+    "Y": 28.786247319787787,
+    "UNIT_NAME": "Canaveral National Seashore",
+    "STATE": "FL",
+    "UNIT_TYPE": "National Seashore"
+  },
+  {
+    "X": -74.00432891216373,
+    "Y": 40.71454947861035,
+    "UNIT_NAME": "African Burial Ground National Monument",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -117.24159855201759,
+    "Y": 32.67225021410136,
+    "UNIT_NAME": "Cabrillo National Monument",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -75.44574105173214,
+    "Y": 40.100611684561805,
+    "UNIT_NAME": "Valley Forge National Historical Park",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -77.04954860895096,
+    "Y": 38.714986295019884,
+    "UNIT_NAME": "George Washington Memorial Parkway",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Parkway"
+  },
+  {
+    "X": -77.14009689234832,
+    "Y": 38.96762881193365,
+    "UNIT_NAME": "Clara Barton National Historic Site",
+    "STATE": "MD",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -77.02875093386726,
+    "Y": 38.71217665581597,
+    "UNIT_NAME": "Fort Washington Park",
+    "STATE": "MD",
+    "UNIT_TYPE": "Other Designation"
+  },
+  {
+    "X": -118.57520330390865,
+    "Y": 36.50768379502381,
+    "UNIT_NAME": "Sequoia National Park",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -156.92464982651128,
+    "Y": 21.154640886083765,
+    "UNIT_NAME": "Kalaupapa National Historical Park",
+    "STATE": "HI",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -85.67983318673534,
+    "Y": 32.45538666537152,
+    "UNIT_NAME": "Tuskegee Airmen National Historic Site",
+    "STATE": "AL",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -64.75519357959165,
+    "Y": 17.779085362558764,
+    "UNIT_NAME": "Salt River Bay National Historical Park and Ecological Preserve",
+    "STATE": "VI",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -91.38244976785931,
+    "Y": 31.54301947473995,
+    "UNIT_NAME": "Natchez National Historical Park",
+    "STATE": "MS",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -75.15000619734683,
+    "Y": 39.96195481688537,
+    "UNIT_NAME": "Edgar Allan Poe National Historic Site",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -71.07064043431693,
+    "Y": 42.35789562655943,
+    "UNIT_NAME": "Boston African American National Historic Site",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -86.13089476222571,
+    "Y": 37.19758046743385,
+    "UNIT_NAME": "Mammoth Cave National Park",
+    "STATE": "KY",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -110.70548773516896,
+    "Y": 43.81816011259671,
+    "UNIT_NAME": "Grand Teton National Park",
+    "STATE": "WY",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -122.0271566353662,
+    "Y": 37.826044557131894,
+    "UNIT_NAME": "Eugene O'Neill National Historic Site",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -71.01254939065585,
+    "Y": 42.2565941478674,
+    "UNIT_NAME": "Adams National Historical Park",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -110.53625648944772,
+    "Y": 36.68549117870245,
+    "UNIT_NAME": "Navajo National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -77.03781290489148,
+    "Y": 38.52934415181878,
+    "UNIT_NAME": "Thomas Stone National Historic Site",
+    "STATE": "MD",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -93.00729876340402,
+    "Y": 31.664441655245145,
+    "UNIT_NAME": "Cane River Creole National Historical Park",
+    "STATE": "LA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -108.5009288861194,
+    "Y": 37.22348339262372,
+    "UNIT_NAME": "Mesa Verde National Park",
+    "STATE": "CO",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -114.25796576827808,
+    "Y": 38.9460952979772,
+    "UNIT_NAME": "Great Basin National Park",
+    "STATE": "NV",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -89.76068849933841,
+    "Y": 47.99968200012663,
+    "UNIT_NAME": "Grand Portage National Monument",
+    "STATE": "MI",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -122.60226027933533,
+    "Y": 40.61358019844145,
+    "UNIT_NAME": "Whiskeytown-Shasta-Trinity National Recreation Area",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -122.47371721829519,
+    "Y": 37.80840018265261,
+    "UNIT_NAME": "Fort Point National Historic Site",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -70.88683822812469,
+    "Y": 42.51959896679232,
+    "UNIT_NAME": "Salem Maritime National Historic Site",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -77.03546584061606,
+    "Y": 38.88865171684373,
+    "UNIT_NAME": "Washington Monument",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -77.03632572956558,
+    "Y": 38.88101429674878,
+    "UNIT_NAME": "Thomas Jefferson Memorial",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -78.11031132497241,
+    "Y": 34.45820772900647,
+    "UNIT_NAME": "Moores Creek National Battlefield",
+    "STATE": "NC",
+    "UNIT_TYPE": "National Battlefield"
+  },
+  {
+    "X": -85.73413618037034,
+    "Y": 32.97668768701727,
+    "UNIT_NAME": "Horseshoe Bend National Military Park",
+    "STATE": "AL",
+    "UNIT_TYPE": "National Military Park"
+  },
+  {
+    "X": -81.23866231111475,
+    "Y": 29.7114052649298,
+    "UNIT_NAME": "Fort Matanzas National Monument",
+    "STATE": "FL",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -119.73965083664775,
+    "Y": 34.01655126933763,
+    "UNIT_NAME": "Channel Islands National Park",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -109.8769622079432,
+    "Y": 38.243140386565436,
+    "UNIT_NAME": "Canyonlands National Park",
+    "STATE": "UT",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -92.29989912800471,
+    "Y": 34.736959242543314,
+    "UNIT_NAME": "Little Rock Central High School National Historic Site",
+    "STATE": "AR",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -77.03655356028794,
+    "Y": 38.89703998427945,
+    "UNIT_NAME": "White House",
+    "STATE": "DC",
+    "UNIT_TYPE": "Other Designation"
+  },
+  {
+    "X": -79.73187418349484,
+    "Y": 37.114813346101286,
+    "UNIT_NAME": "Booker T. Washington National Monument",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -90.1472102826612,
+    "Y": 29.81916125017034,
+    "UNIT_NAME": "Jean Lafitte National Historical Park and Preserve",
+    "STATE": "LA",
+    "UNIT_TYPE": "National Historical Park and Preserve"
+  },
+  {
+    "X": -103.82999400046128,
+    "Y": 43.731028602786864,
+    "UNIT_NAME": "Jewel Cave National Monument",
+    "STATE": "SD",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -99.21697509478166,
+    "Y": 38.184490768186606,
+    "UNIT_NAME": "Fort Larned National Historic Site",
+    "STATE": "KS",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -156.03071959658595,
+    "Y": 19.680825063147573,
+    "UNIT_NAME": "Kaloko-Honokohau National Historical Park",
+    "STATE": "HI",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -122.36653503380101,
+    "Y": 37.9086682021409,
+    "UNIT_NAME": "Rosie the Riveter/World War II Home Front National Historical Park",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -75.4555762593153,
+    "Y": 43.21053439622888,
+    "UNIT_NAME": "Fort Stanwix National Monument",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -75.1473204520396,
+    "Y": 39.94345312085182,
+    "UNIT_NAME": "Thaddeus Kosciuszko National Memorial",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -84.50758950802202,
+    "Y": 39.119703524337865,
+    "UNIT_NAME": "William Howard Taft National Historic Site",
+    "STATE": "OH",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -94.70429173969077,
+    "Y": 37.843588483190445,
+    "UNIT_NAME": "Fort Scott National Historic Site",
+    "STATE": "KS",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -82.8119044266867,
+    "Y": 41.65379041213279,
+    "UNIT_NAME": "Perry's Victory and International Peace Memorial",
+    "STATE": "OH",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -81.35086557049901,
+    "Y": 41.66486548109209,
+    "UNIT_NAME": "James A. Garfield National Historic Site",
+    "STATE": "OH",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -77.4612213283771,
+    "Y": 39.64821118556467,
+    "UNIT_NAME": "Catoctin Mountain Park",
+    "STATE": "MD",
+    "UNIT_TYPE": "Other Designation"
+  },
+  {
+    "X": -110.96550987139801,
+    "Y": 37.07788762879528,
+    "UNIT_NAME": "Rainbow Bridge National Monument",
+    "STATE": "UT",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -110.00224541846289,
+    "Y": 37.604528113523195,
+    "UNIT_NAME": "Natural Bridges National Monument",
+    "STATE": "UT",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -103.4266499959205,
+    "Y": 38.03977482567448,
+    "UNIT_NAME": "Bent's Old Fort National Historic Site",
+    "STATE": "CO",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -111.91927385956762,
+    "Y": 33.18713815617439,
+    "UNIT_NAME": "Hohokam Pima National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -86.90996504975563,
+    "Y": 30.373063348014963,
+    "UNIT_NAME": "Gulf Islands National Seashore",
+    "STATE": "FL",
+    "UNIT_TYPE": "National Seashore"
+  },
+  {
+    "X": -111.50242436565308,
+    "Y": 35.16822799998548,
+    "UNIT_NAME": "Walnut Canyon National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -78.80089447040525,
+    "Y": 37.382747611733386,
+    "UNIT_NAME": "Appomattox Court House National Historical Park",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -96.32475523098532,
+    "Y": 44.013519377864824,
+    "UNIT_NAME": "Pipestone National Monument",
+    "STATE": "MN",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -157.93860577075478,
+    "Y": 21.367051200333993,
+    "UNIT_NAME": "World War II Valor in the Pacific National Monument",
+    "STATE": "HI",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -80.21024700051474,
+    "Y": 25.4904947597159,
+    "UNIT_NAME": "Biscayne National Park",
+    "STATE": "FL",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -71.29604681482758,
+    "Y": 42.45340032123686,
+    "UNIT_NAME": "Minute Man National Historical Park",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -91.34732760217084,
+    "Y": 34.02072545508342,
+    "UNIT_NAME": "Arkansas Post National Memorial",
+    "STATE": "AR",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -103.45251880541181,
+    "Y": 43.880369241675126,
+    "UNIT_NAME": "Mount Rushmore National Memorial",
+    "STATE": "SD",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -104.88435608803105,
+    "Y": 31.923349517749465,
+    "UNIT_NAME": "Guadalupe Mountains National Park",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -113.7124103559489,
+    "Y": 42.06988423857375,
+    "UNIT_NAME": "City of Rocks National Reserve",
+    "STATE": "ID",
+    "UNIT_TYPE": "National Reserve"
+  },
+  {
+    "X": -114.95399890540308,
+    "Y": 42.775573270932355,
+    "UNIT_NAME": "Hagerman Fossil Beds National Monument",
+    "STATE": "ID",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -122.13266004286751,
+    "Y": 37.982634409376566,
+    "UNIT_NAME": "John Muir National Historic Site",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -77.36301724280234,
+    "Y": 37.22799502727459,
+    "UNIT_NAME": "Petersburg National Battlefield",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Battlefield"
+  },
+  {
+    "X": -93.59641279844563,
+    "Y": 33.66761796012801,
+    "UNIT_NAME": "President William Jefferson Clinton Birthplace Home National Historic Site",
+    "STATE": "AR",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -122.66163759729554,
+    "Y": 45.62356027158444,
+    "UNIT_NAME": "Fort Vancouver National Historic Site",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -72.37403164520062,
+    "Y": 43.50046879130509,
+    "UNIT_NAME": "Saint-Gaudens National Historic Site",
+    "STATE": "NH",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -71.12323846327193,
+    "Y": 42.34693693933639,
+    "UNIT_NAME": "John Fitzgerald Kennedy National Historic Site",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -90.1756293203109,
+    "Y": 38.62211610071458,
+    "UNIT_NAME": "Jefferson National Expansion Memorial",
+    "STATE": "MO",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -80.94362859001204,
+    "Y": 32.03477742708942,
+    "UNIT_NAME": "Fort Pulaski National Monument",
+    "STATE": "GA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -73.89687748012103,
+    "Y": 41.760863892627405,
+    "UNIT_NAME": "Eleanor Roosevelt National Historic Site",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -79.92528003943774,
+    "Y": 39.775454881879696,
+    "UNIT_NAME": "Friendship Hill National Historic Site",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -73.98901267968863,
+    "Y": 40.738593115111314,
+    "UNIT_NAME": "Theodore Roosevelt Birthplace National Historic Site",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -110.25615722221423,
+    "Y": 31.34900272546482,
+    "UNIT_NAME": "Coronado National Memorial",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -75.67022037356453,
+    "Y": 36.016211343156044,
+    "UNIT_NAME": "Wright Brothers National Memorial",
+    "STATE": "NC",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -86.72823701762181,
+    "Y": 32.27082092191955,
+    "UNIT_NAME": "Selma to Montgomery National Historic Trail",
+    "STATE": "AL",
+    "UNIT_TYPE": "National Historic Trail"
+  },
+  {
+    "X": -81.38978803923402,
+    "Y": 35.13900554463844,
+    "UNIT_NAME": "Kings Mountain National Military Park",
+    "STATE": "SC",
+    "UNIT_TYPE": "National Military Park"
+  },
+  {
+    "X": -112.49398619739898,
+    "Y": 41.63099574633396,
+    "UNIT_NAME": "Golden Spike National Historic Site",
+    "STATE": "UT",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -70.92319615135233,
+    "Y": 41.63564794036124,
+    "UNIT_NAME": "New Bedford Whaling National Historical Park",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -73.49668653437976,
+    "Y": 40.88557279385305,
+    "UNIT_NAME": "Sagamore Hill National Historic Site",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -121.5178032328673,
+    "Y": 41.758726432334115,
+    "UNIT_NAME": "Lava Beds National Monument",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -76.8445135720733,
+    "Y": 42.902620069899825,
+    "UNIT_NAME": "Women's Rights National Historical Park",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -87.53700768984125,
+    "Y": 38.67840212318046,
+    "UNIT_NAME": "George Rogers Clark National Historical Park",
+    "STATE": "IN",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -71.12636955916102,
+    "Y": 42.37698853411557,
+    "UNIT_NAME": "Longfellow House-Washington's Headquarters National Historic Site",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -75.76811626602992,
+    "Y": 40.20607230296832,
+    "UNIT_NAME": "Hopewell Furnace National Historic Site",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -77.04311541567189,
+    "Y": 38.88341273465441,
+    "UNIT_NAME": "Franklin Delano Roosevelt Memorial",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -111.83661530773244,
+    "Y": 34.6110205948824,
+    "UNIT_NAME": "Montezuma Castle National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -118.58724470376097,
+    "Y": 36.89861451257965,
+    "UNIT_NAME": "Kings Canyon National Park",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -72.58112560274316,
+    "Y": 42.10830435796289,
+    "UNIT_NAME": "Springfield Armory National Historic Site",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -118.46548756308944,
+    "Y": 46.0426509182564,
+    "UNIT_NAME": "Whitman Mission National Historic Site",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -77.04037589631345,
+    "Y": 38.88923916501851,
+    "UNIT_NAME": "World War II Memorial",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -77.04765735524057,
+    "Y": 38.89096296585479,
+    "UNIT_NAME": "Vietnam Veterans Memorial",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -77.04807733560222,
+    "Y": 38.88792132944729,
+    "UNIT_NAME": "Korean War Veterans Memorial",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -77.04426658335228,
+    "Y": 38.890936734088065,
+    "UNIT_NAME": "Constitution Gardens",
+    "STATE": "DC",
+    "UNIT_TYPE": "Other Designation"
+  },
+  {
+    "X": -77.04439706544393,
+    "Y": 38.886282092590854,
+    "UNIT_NAME": "Martin Luther King, Jr., Memorial",
+    "STATE": "DC",
+    "UNIT_TYPE": "Other Designation"
+  },
+  {
+    "X": -77.05017777909448,
+    "Y": 38.88927229165584,
+    "UNIT_NAME": "Lincoln Memorial",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -77.02278438483559,
+    "Y": 38.889866025468564,
+    "UNIT_NAME": "National Mall",
+    "STATE": "DC",
+    "UNIT_TYPE": "Other Designation"
+  },
+  {
+    "X": -85.81858648043018,
+    "Y": 34.970839233805634,
+    "UNIT_NAME": "Russell Cave National Monument",
+    "STATE": "AL",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -77.4367480768325,
+    "Y": 37.54732824779319,
+    "UNIT_NAME": "Maggie L. Walker National Historic Site",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -103.89619053125287,
+    "Y": 30.599303621677144,
+    "UNIT_NAME": "Fort Davis National Historic Site",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -108.02640361005525,
+    "Y": 45.28907418591278,
+    "UNIT_NAME": "Bighorn Canyon National Recreation Area",
+    "STATE": "WY",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -155.89967767125867,
+    "Y": 19.409031349594994,
+    "UNIT_NAME": "Pu'uhonua o Honaunau National Historical Park",
+    "STATE": "HI",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -99.6178725825619,
+    "Y": 39.39038860599006,
+    "UNIT_NAME": "Nicodemus National Historic Site",
+    "STATE": "KS",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -122.58396403412718,
+    "Y": 37.89846858427993,
+    "UNIT_NAME": "Muir Woods National Monument",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -94.53066282383546,
+    "Y": 38.90127495850898,
+    "UNIT_NAME": "Harry S Truman National Historic Site",
+    "STATE": "MO",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -102.51695137460666,
+    "Y": 38.56413438628128,
+    "UNIT_NAME": "Sand Creek Massacre National Historic Site",
+    "STATE": "CO",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -101.39201562878517,
+    "Y": 47.36850053872294,
+    "UNIT_NAME": "Knife River Indian Villages National Historic Site",
+    "STATE": "ND",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -74.53749376116775,
+    "Y": 40.76780365341911,
+    "UNIT_NAME": "Morristown National Historical Park",
+    "STATE": "NJ",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -91.35149953825041,
+    "Y": 41.66729293043906,
+    "UNIT_NAME": "Herbert Hoover National Historic Site",
+    "STATE": "IA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -73.7152950604032,
+    "Y": 42.366663759220536,
+    "UNIT_NAME": "Martin Van Buren National Historic Site",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -74.01682766768342,
+    "Y": 40.69161563228363,
+    "UNIT_NAME": "Governors Island National Monument",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -103.70724310389659,
+    "Y": 41.8347613971437,
+    "UNIT_NAME": "Scotts Bluff National Monument",
+    "STATE": "NE",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -78.77673480904825,
+    "Y": 40.344921799776785,
+    "UNIT_NAME": "Johnstown Flood National Memorial",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -99.70445142361947,
+    "Y": 35.62083955129067,
+    "UNIT_NAME": "Washita Battlefield National Historic Site",
+    "STATE": "OK",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -103.7439989996597,
+    "Y": 42.42147184926114,
+    "UNIT_NAME": "Agate Fossil Beds National Monument",
+    "STATE": "NE",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -89.48053115063193,
+    "Y": 41.83621266635753,
+    "UNIT_NAME": "Ronald Reagan Boyhood Home National Historic Site",
+    "STATE": "IL",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -111.28300359642445,
+    "Y": 38.38355284518858,
+    "UNIT_NAME": "Capitol Reef National Park",
+    "STATE": "UT",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -78.89457021061652,
+    "Y": 40.06061150850715,
+    "UNIT_NAME": "Flight 93 National Memorial",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -119.08768611076898,
+    "Y": 37.615373611479896,
+    "UNIT_NAME": "Devils Postpile National Monument",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -122.42442474254902,
+    "Y": 37.810066472945984,
+    "UNIT_NAME": "San Francisco Maritime National Historical Park",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -97.46272179818105,
+    "Y": 26.0247421537663,
+    "UNIT_NAME": "Palo Alto Battlefield National Historical Park",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -115.86011076578986,
+    "Y": 33.82705236673525,
+    "UNIT_NAME": "Joshua Tree National Park",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -64.70793993189243,
+    "Y": 18.273508988910045,
+    "UNIT_NAME": "Virgin Islands Coral Reef National Monument",
+    "STATE": "VI",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -72.5382383907556,
+    "Y": 43.63382234894451,
+    "UNIT_NAME": "Marsh-Billings-Rockefeller National Historical Park",
+    "STATE": "VT",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -85.59724642196947,
+    "Y": 34.451905600734975,
+    "UNIT_NAME": "Little River Canyon National Preserve",
+    "STATE": "AL",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -83.89223081556078,
+    "Y": 39.707440631704,
+    "UNIT_NAME": "Charles Young Buffalo Soldiers National Monument",
+    "STATE": "OH",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -84.06442181251384,
+    "Y": 39.80396752078145,
+    "UNIT_NAME": "Dayton Aviation Heritage National Historical Park",
+    "STATE": "OH",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -77.26508102406554,
+    "Y": 39.79577487331155,
+    "UNIT_NAME": "Eisenhower National Historic Site",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -81.37593264078576,
+    "Y": 40.79662217354262,
+    "UNIT_NAME": "First Ladies National Historic Site",
+    "STATE": "OH",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -106.75224307456193,
+    "Y": 35.134266442435084,
+    "UNIT_NAME": "Petroglyph National Monument",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -118.56157809336203,
+    "Y": 35.22729380540566,
+    "UNIT_NAME": "Cesar E. Chavez National Monument",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -79.58869069705938,
+    "Y": 39.810037486858945,
+    "UNIT_NAME": "Fort Necessity National Battlefield",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Battlefield"
+  },
+  {
+    "X": -101.90043275409437,
+    "Y": 43.84457664083034,
+    "UNIT_NAME": "Minuteman Missile National Historic Site",
+    "STATE": "SD",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -106.08979968774351,
+    "Y": 34.25942388731017,
+    "UNIT_NAME": "Salinas Pueblo Missions National Monument",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -121.18099236773652,
+    "Y": 36.490214618660225,
+    "UNIT_NAME": "Pinnacles National Park",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -64.74194396814006,
+    "Y": 18.342793451680283,
+    "UNIT_NAME": "Virgin Islands National Park",
+    "STATE": "VI",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -105.69776901289032,
+    "Y": 40.35565994576763,
+    "UNIT_NAME": "Rocky Mountain National Park",
+    "STATE": "CO",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -117.13262780382647,
+    "Y": 36.4839306343203,
+    "UNIT_NAME": "Death Valley National Park",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -76.58044164369385,
+    "Y": 39.263953110508105,
+    "UNIT_NAME": "Fort McHenry National Monument and Historic Shrine",
+    "STATE": "MD",
+    "UNIT_TYPE": "National Monument and Historic Shrine"
+  },
+  {
+    "X": -99.63194158421508,
+    "Y": 42.725862134019856,
+    "UNIT_NAME": "Niobrara National Scenic River",
+    "STATE": "NE",
+    "UNIT_TYPE": "National Scenic River"
+  },
+  {
+    "X": -112.1852540422742,
+    "Y": 36.18654514697059,
+    "UNIT_NAME": "Grand Canyon National Park",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -114.65190290711605,
+    "Y": 35.71471937064512,
+    "UNIT_NAME": "Lake Mead National Recreation Area",
+    "STATE": "NV",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -71.00775926274385,
+    "Y": 42.46849928267974,
+    "UNIT_NAME": "Saugus Iron Works National Historic Site",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -71.41056665325976,
+    "Y": 41.82989549034956,
+    "UNIT_NAME": "Roger Williams National Memorial",
+    "STATE": "RI",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -111.53253832841116,
+    "Y": 32.9970256572858,
+    "UNIT_NAME": "Casa Grande Ruins National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -84.5789165581497,
+    "Y": 33.978058590625885,
+    "UNIT_NAME": "Kennesaw Mountain National Battlefield Park",
+    "STATE": "GA",
+    "UNIT_TYPE": "National Battlefield Park"
+  },
+  {
+    "X": -64.7399653424885,
+    "Y": 17.734055719855405,
+    "UNIT_NAME": "Christiansted National Historic Site",
+    "STATE": "VI",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -78.53186093021762,
+    "Y": 40.4467713608838,
+    "UNIT_NAME": "Allegheny Portage Railroad National Historic Site",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -82.643354161443,
+    "Y": 27.522726106889394,
+    "UNIT_NAME": "De Soto National Memorial",
+    "STATE": "FL",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -84.12989004676524,
+    "Y": 32.19830322227204,
+    "UNIT_NAME": "Andersonville National Historic Site",
+    "STATE": "GA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -83.59675984308677,
+    "Y": 32.83973828804685,
+    "UNIT_NAME": "Ocmulgee National Monument",
+    "STATE": "GA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -81.80935400982166,
+    "Y": 35.131605929446835,
+    "UNIT_NAME": "Cowpens National Battlefield",
+    "STATE": "SC",
+    "UNIT_TYPE": "National Battlefield"
+  },
+  {
+    "X": -109.34160647126747,
+    "Y": 32.01214105339164,
+    "UNIT_NAME": "Chiricahua National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -84.37169330249506,
+    "Y": 33.754920070476565,
+    "UNIT_NAME": "Martin Luther King, Jr., National Historic Site",
+    "STATE": "GA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -77.23846982616219,
+    "Y": 39.80428487978782,
+    "UNIT_NAME": "Gettysburg National Military Park",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Military Park"
+  },
+  {
+    "X": 144.6551139396068,
+    "Y": 13.390010682665475,
+    "UNIT_NAME": "War in the Pacific",
+    "STATE": "GU",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -104.71563419965233,
+    "Y": 44.590645620942304,
+    "UNIT_NAME": "Devils Tower National Monument",
+    "STATE": "WY",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -71.05574920109096,
+    "Y": 42.37337753561335,
+    "UNIT_NAME": "Boston National Historical Park",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -123.40164053669973,
+    "Y": 42.10313650029427,
+    "UNIT_NAME": "Oregon Caves National Monument and Preserve",
+    "STATE": "OR",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -73.9630756727959,
+    "Y": 40.81343435561955,
+    "UNIT_NAME": "General Grant National Memorial",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -83.37620463460496,
+    "Y": 41.91291081594774,
+    "UNIT_NAME": "River Raisin National Battlefield Park",
+    "STATE": "MI",
+    "UNIT_TYPE": "National Battlefield Park"
+  },
+  {
+    "X": -122.55112797214065,
+    "Y": 37.858876765585265,
+    "UNIT_NAME": "Golden Gate National Recreation Area",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -122.0301602728929,
+    "Y": 38.05685470815998,
+    "UNIT_NAME": "Port Chicago Naval Magazine National Memorial",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -76.83522057591757,
+    "Y": 39.06319290578603,
+    "UNIT_NAME": "National Capital Parks",
+    "STATE": "DC",
+    "UNIT_TYPE": "Park"
+  },
+  {
+    "X": -119.63431849352935,
+    "Y": 44.543135998267836,
+    "UNIT_NAME": "John Day Fossil Beds National Monument",
+    "STATE": "OR",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -75.56362481769699,
+    "Y": 39.83184433914676,
+    "UNIT_NAME": "First State National Historical Park",
+    "STATE": "DE",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -79.84186812806595,
+    "Y": 36.13301779720456,
+    "UNIT_NAME": "Guilford Courthouse National Military Park",
+    "STATE": "NC",
+    "UNIT_TYPE": "National Military Park"
+  },
+  {
+    "X": -74.18022528539062,
+    "Y": 40.91589777457259,
+    "UNIT_NAME": "Paterson Great Falls National Historical Park",
+    "STATE": "NJ",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -94.03444522163154,
+    "Y": 36.45477995950443,
+    "UNIT_NAME": "Pea Ridge National Military Park",
+    "STATE": "AR",
+    "UNIT_TYPE": "National Military Park"
+  },
+  {
+    "X": -73.4564871724521,
+    "Y": 41.25675816318372,
+    "UNIT_NAME": "Weir Farm National Historic Site",
+    "STATE": "CT",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -78.87248410707365,
+    "Y": 42.901467807978904,
+    "UNIT_NAME": "Theodore Roosevelt Inaugural National Historic Site",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -121.40720482272127,
+    "Y": 40.49378739271492,
+    "UNIT_NAME": "Lassen Volcanic National Park",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -102.39394509598985,
+    "Y": 43.834002224702445,
+    "UNIT_NAME": "Badlands National Park",
+    "STATE": "SD",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -158.05749899426564,
+    "Y": 21.388175100524755,
+    "UNIT_NAME": "Honouliuli National Monument",
+    "STATE": "HI",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -87.86088301251006,
+    "Y": 36.487282221118996,
+    "UNIT_NAME": "Fort Donelson National Battlefield",
+    "STATE": "TN",
+    "UNIT_TYPE": "National Battlefield"
+  },
+  {
+    "X": -73.94194571178693,
+    "Y": 41.79660726139189,
+    "UNIT_NAME": "Vanderbilt Mansion National Historic Site",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -84.43240802686036,
+    "Y": 32.0263179306026,
+    "UNIT_NAME": "Jimmy Carter National Historic Site",
+    "STATE": "GA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -123.00497927023743,
+    "Y": 48.4621140011139,
+    "UNIT_NAME": "San Juan Island National Historical Park",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -73.86104473536471,
+    "Y": 40.61854969916276,
+    "UNIT_NAME": "Gateway National Recreation Area",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -75.00971480552755,
+    "Y": 41.516956992513656,
+    "UNIT_NAME": "Upper Delaware Scenic and Recreational River",
+    "STATE": "PA",
+    "UNIT_TYPE": "Scenic and Recreational River"
+  },
+  {
+    "X": -104.03807859943791,
+    "Y": 47.99898645880197,
+    "UNIT_NAME": "Fort Union Trading Post National Historic Site",
+    "STATE": "ND",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -114.2473751997119,
+    "Y": 42.6810429200908,
+    "UNIT_NAME": "Minidoka National Historic Site",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -113.64584423040165,
+    "Y": 45.64647257927827,
+    "UNIT_NAME": "Big Hole National Battlefield",
+    "STATE": "MT",
+    "UNIT_TYPE": "National Battlefield"
+  },
+  {
+    "X": -109.34006729965628,
+    "Y": 36.09404757767295,
+    "UNIT_NAME": "Canyon de Chelly National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -70.00519430484933,
+    "Y": 41.96046328359755,
+    "UNIT_NAME": "Cape Cod National Seashore",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Seashore"
+  },
+  {
+    "X": -73.63143217409755,
+    "Y": 42.99520472582583,
+    "UNIT_NAME": "Saratoga National Historical Park",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -84.39333038673642,
+    "Y": 35.935395413223645,
+    "UNIT_NAME": "Manhattan Project National Historical Park",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -121.70437290680309,
+    "Y": 46.86060443620587,
+    "UNIT_NAME": "Mount Rainier National Park",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -86.99656862592455,
+    "Y": 38.11816975621895,
+    "UNIT_NAME": "Lincoln Boyhood National Memorial",
+    "STATE": "IN",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -71.13155215922404,
+    "Y": 42.32367645765087,
+    "UNIT_NAME": "Frederick Law Olmsted National Historic Site",
+    "STATE": "MA",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -115.12589861284549,
+    "Y": 35.2283302703491,
+    "UNIT_NAME": "Castle Mountains National Monument",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -76.9198093836178,
+    "Y": 38.18973481224426,
+    "UNIT_NAME": "George Washington Birthplace National Monument",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -73.94729121593683,
+    "Y": 40.82135158491887,
+    "UNIT_NAME": "Hamilton Grange National Memorial",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -76.58822560581785,
+    "Y": 39.41657772802167,
+    "UNIT_NAME": "Hampton National Historic Site",
+    "STATE": "MD",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -97.17606141308049,
+    "Y": 31.604658813383683,
+    "UNIT_NAME": "Waco Mammoth National Monument",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -110.8021275511018,
+    "Y": 37.39766814756702,
+    "UNIT_NAME": "Glen Canyon National Recreation Area",
+    "STATE": "UT",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -119.55714337676608,
+    "Y": 37.848318785191346,
+    "UNIT_NAME": "Yosemite National Park",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -96.57381586001287,
+    "Y": 38.45133065321585,
+    "UNIT_NAME": "Tallgrass Prairie National Preserve",
+    "STATE": "KS",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -85.7044128006062,
+    "Y": 32.429597553003234,
+    "UNIT_NAME": "Tuskegee Institute National Historic Site",
+    "STATE": "AL",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -81.5002727352415,
+    "Y": 30.3846054536871,
+    "UNIT_NAME": "Fort Caroline National Memorial",
+    "STATE": "FL",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -67.13363650646137,
+    "Y": 45.12858837084813,
+    "UNIT_NAME": "Saint Croix Island International Historic Site",
+    "STATE": "ME",
+    "UNIT_TYPE": "International Historic Site"
+  },
+  {
+    "X": -104.54590920212169,
+    "Y": 42.203016059814324,
+    "UNIT_NAME": "Fort Laramie National Historic Site",
+    "STATE": "WY",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -92.70445977393538,
+    "Y": 45.34489813604384,
+    "UNIT_NAME": "Lower Saint Croix National Scenic Riverway",
+    "STATE": "WI",
+    "UNIT_TYPE": "National Scenic Riverway"
+  },
+  {
+    "X": -77.38741686752795,
+    "Y": 38.58583174546348,
+    "UNIT_NAME": "Prince William Forest Park",
+    "STATE": "VA",
+    "UNIT_TYPE": "Park"
+  },
+  {
+    "X": -74.04113205122594,
+    "Y": 40.69831806797189,
+    "UNIT_NAME": "Statue Of Liberty National Monument",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -106.30543442815546,
+    "Y": 35.75758546370162,
+    "UNIT_NAME": "Bandelier National Monument",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -106.51961450147503,
+    "Y": 35.91677881364756,
+    "UNIT_NAME": "Valles Caldera National Preserve",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -103.43916484386018,
+    "Y": 43.580113601650545,
+    "UNIT_NAME": "Wind Cave National Park",
+    "STATE": "SD",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -88.79544397446413,
+    "Y": 34.186413082648905,
+    "UNIT_NAME": "Natchez Trace Parkway",
+    "STATE": "MS",
+    "UNIT_TYPE": "Parkway"
+  },
+  {
+    "X": -108.6920609066522,
+    "Y": 39.05042535344587,
+    "UNIT_NAME": "Colorado National Monument",
+    "STATE": "CO",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -77.73876680473374,
+    "Y": 38.30363873811043,
+    "UNIT_NAME": "Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Military Park"
+  },
+  {
+    "X": -76.6345473466312,
+    "Y": 37.28246105633913,
+    "UNIT_NAME": "Colonial National Historical Park",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -156.08223703040758,
+    "Y": 59.0030661624132,
+    "UNIT_NAME": "Alagnak Wild River",
+    "STATE": "AK",
+    "UNIT_TYPE": "Wild River"
+  },
+  {
+    "X": -158.1178088254745,
+    "Y": 56.895443407298934,
+    "UNIT_NAME": "Aniakchak National Monument",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -157.72082394901594,
+    "Y": 56.865032214563406,
+    "UNIT_NAME": "Aniakchak National Preserve",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -163.92080607507236,
+    "Y": 65.7570484783541,
+    "UNIT_NAME": "Bering Land Bridge National Preserve",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -163.5025730363814,
+    "Y": 67.41218542995908,
+    "UNIT_NAME": "Cape Krusenstern National Monument",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -150.73414587622156,
+    "Y": 63.34110764038502,
+    "UNIT_NAME": "Denali National Park",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -152.4397427492129,
+    "Y": 63.47750714841113,
+    "UNIT_NAME": "Denali National Preserve",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -153.38690315076204,
+    "Y": 67.86900570575906,
+    "UNIT_NAME": "Gates of the Arctic National Park",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -154.91541584326063,
+    "Y": 66.77953337134699,
+    "UNIT_NAME": "Gates of the Arctic National Preserve",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -136.81092974169667,
+    "Y": 58.791439487482364,
+    "UNIT_NAME": "Glacier Bay National Park",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -138.35143057293442,
+    "Y": 59.13134067205487,
+    "UNIT_NAME": "Glacier Bay National Preserve",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -154.97963384002887,
+    "Y": 58.56275320847002,
+    "UNIT_NAME": "Katmai National Park",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -155.32005114727625,
+    "Y": 59.10664594767786,
+    "UNIT_NAME": "Katmai National Preserve",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -149.88152448419362,
+    "Y": 59.953236820720846,
+    "UNIT_NAME": "Kenai Fjords National Park",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -135.29263670787503,
+    "Y": 59.63158702978588,
+    "UNIT_NAME": "Klondike Gold Rush National Historical Park",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -159.19888529413612,
+    "Y": 67.3533647400494,
+    "UNIT_NAME": "Kobuk Valley National Park",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -153.2486797391173,
+    "Y": 60.54714893834436,
+    "UNIT_NAME": "Lake Clark National Park",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -154.56841838374356,
+    "Y": 60.184028013140875,
+    "UNIT_NAME": "Lake Clark National Preserve",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -159.39448625623928,
+    "Y": 68.18143909249169,
+    "UNIT_NAME": "Noatak National Preserve",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -135.3155148955298,
+    "Y": 57.04713918969333,
+    "UNIT_NAME": "Sitka National Historical Park",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -142.13198859202865,
+    "Y": 60.691861284384736,
+    "UNIT_NAME": "Wrangell-St. Elias National Park",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -142.57179610867388,
+    "Y": 62.234941459957525,
+    "UNIT_NAME": "Wrangell-St. Elias National Preserve",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -142.79842763762016,
+    "Y": 65.0897863973477,
+    "UNIT_NAME": "Yukon-Charley Rivers National Preserve",
+    "STATE": "AK",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -77.28132272609918,
+    "Y": 37.570062610533355,
+    "UNIT_NAME": "Richmond National Battlefield Park",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Battlefield Park"
+  },
+  {
+    "X": -87.60879769214048,
+    "Y": 41.694291292955185,
+    "UNIT_NAME": "Pullman National Monument",
+    "STATE": "IL",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -77.01775609557544,
+    "Y": 38.89281848864859,
+    "UNIT_NAME": "Pennsylvania Avenue National Historic Site",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -77.03286040469524,
+    "Y": 38.89593274561575,
+    "UNIT_NAME": "World War I Memorial",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -77.00386075084312,
+    "Y": 38.89232345042654,
+    "UNIT_NAME": "Belmont-Paul Women's Equality National Monument",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -121.34652201190475,
+    "Y": 48.83302697563049,
+    "UNIT_NAME": "North Cascades National Park",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -121.17278329227733,
+    "Y": 48.70588997212785,
+    "UNIT_NAME": "Ross Lake National Recreation Area",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -74.00099817109262,
+    "Y": 40.73338905439826,
+    "UNIT_NAME": "Stonewall National Monument",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -76.2981783573988,
+    "Y": 37.02083954727939,
+    "UNIT_NAME": "Fort Monroe National Monument",
+    "STATE": "VA",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -169.4527887091253,
+    "Y": -14.236872881412415,
+    "UNIT_NAME": "National Park of American Samoa",
+    "STATE": "AS",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -92.83720625610752,
+    "Y": 48.48327144035594,
+    "UNIT_NAME": "Voyageurs National Park",
+    "STATE": "MN",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -77.74195535956338,
+    "Y": 39.31286155441019,
+    "UNIT_NAME": "Harpers Ferry National Historical Park",
+    "STATE": "WV",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -92.9181061671278,
+    "Y": 35.968644004269855,
+    "UNIT_NAME": "Buffalo National River",
+    "STATE": "AR",
+    "UNIT_TYPE": "National River"
+  },
+  {
+    "X": -80.74866547847299,
+    "Y": 33.79186782498201,
+    "UNIT_NAME": "Congaree National Park",
+    "STATE": "SC",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -96.83401752724643,
+    "Y": 40.287965515409546,
+    "UNIT_NAME": "Homestead National Monument",
+    "STATE": "NE",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -74.01025987263881,
+    "Y": 40.70731466183136,
+    "UNIT_NAME": "Federal Hall National Memorial",
+    "STATE": "NY",
+    "UNIT_TYPE": "National Memorial"
+  },
+  {
+    "X": -93.08972185063355,
+    "Y": 34.511119951459975,
+    "UNIT_NAME": "Hot Springs National Park",
+    "STATE": "AR",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -76.98507919080272,
+    "Y": 38.86297683312662,
+    "UNIT_NAME": "Frederick Douglass National Historic Site",
+    "STATE": "DC",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -94.43127173229206,
+    "Y": 35.38832352631149,
+    "UNIT_NAME": "Fort Smith National Historic Site",
+    "STATE": "AR",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -83.13519508175116,
+    "Y": 39.27939380188248,
+    "UNIT_NAME": "Hopewell Culture National Historical Park",
+    "STATE": "OH",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -91.19602595696948,
+    "Y": 37.14716236886305,
+    "UNIT_NAME": "Ozark National Scenic Riverway",
+    "STATE": "MO",
+    "UNIT_TYPE": "National Scenic Riverway"
+  },
+  {
+    "X": -156.14857132862775,
+    "Y": 20.707282938680397,
+    "UNIT_NAME": "Haleakala National Park",
+    "STATE": "HI",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -107.97773450043758,
+    "Y": 34.786218960399324,
+    "UNIT_NAME": "El Malpais National Monument",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -103.2294701755352,
+    "Y": 29.297255161992478,
+    "UNIT_NAME": "Big Bend National Park",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -95.83253427480294,
+    "Y": 40.664144626708755,
+    "UNIT_NAME": "Lewis and Clark National Historic Trail",
+    "STATE": "NE",
+    "UNIT_TYPE": "National Historic Trail"
+  },
+  {
+    "X": -120.69994837338837,
+    "Y": 48.38241749676886,
+    "UNIT_NAME": "Lake Chelan National Recreation Area",
+    "STATE": "WA",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -74.9572891408177,
+    "Y": 41.10028033396553,
+    "UNIT_NAME": "Delaware Water Gap National Recreation Area",
+    "STATE": "PA",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -82.45096658719716,
+    "Y": 35.268243178419176,
+    "UNIT_NAME": "Carl Sandburg Home National Historic Site",
+    "STATE": "NC",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -76.07333256604963,
+    "Y": 38.44061051445768,
+    "UNIT_NAME": "Harriet Tubman Underground Railroad National Historical Park",
+    "STATE": "MD",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -91.5784843386653,
+    "Y": 45.98021519346499,
+    "UNIT_NAME": "Saint Croix National Scenic Riverway",
+    "STATE": "WI",
+    "UNIT_TYPE": "National Scenic Riverway"
+  },
+  {
+    "X": -98.62171203502642,
+    "Y": 30.250358768204784,
+    "UNIT_NAME": "Lyndon B. Johnson National Historical Park",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -104.55313633183874,
+    "Y": 32.14092524645897,
+    "UNIT_NAME": "Carlsbad Caverns National Park",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -107.94815276612913,
+    "Y": 36.044921940537,
+    "UNIT_NAME": "Chaco Culture National Historical Park",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -107.99992449324475,
+    "Y": 36.836821979844366,
+    "UNIT_NAME": "Aztec Ruins National Monument",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -113.02644198458968,
+    "Y": 37.29823698547897,
+    "UNIT_NAME": "Zion National Park",
+    "STATE": "UT",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -105.54344161992816,
+    "Y": 37.8639495194204,
+    "UNIT_NAME": "Great Sand Dunes National Preserve",
+    "STATE": "CO",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -105.62888816870608,
+    "Y": 37.7765526028859,
+    "UNIT_NAME": "Great Sand Dunes National Park",
+    "STATE": "CO",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -89.64513396968387,
+    "Y": 39.79715641163988,
+    "UNIT_NAME": "Lincoln Home National Historic Site",
+    "STATE": "IL",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -98.45466742165738,
+    "Y": 29.33273055822115,
+    "UNIT_NAME": "San Antonio Missions National Historical Park",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -112.74669320314914,
+    "Y": 46.413751976264685,
+    "UNIT_NAME": "Grant-Kohrs Ranch National Historic Site",
+    "STATE": "MT",
+    "UNIT_TYPE": "National Historic Site"
+  },
+  {
+    "X": -68.73668814933487,
+    "Y": 45.94763088841814,
+    "UNIT_NAME": "Katahdin Woods And Waters National Monument",
+    "STATE": "ME",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -113.48275357511189,
+    "Y": 43.151857066667596,
+    "UNIT_NAME": "Craters of the Moon National Preserve",
+    "STATE": "ID",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -113.53443629984409,
+    "Y": 43.42303798478062,
+    "UNIT_NAME": "Craters of the Moon National Monument",
+    "STATE": "ID",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -106.33503966149345,
+    "Y": 32.77910996748707,
+    "UNIT_NAME": "White Sands National Monument",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -105.69083085952205,
+    "Y": 35.54978449106205,
+    "UNIT_NAME": "Pecos National Historical Park",
+    "STATE": "NM",
+    "UNIT_TYPE": "National Historical Park"
+  },
+  {
+    "X": -112.85728266517661,
+    "Y": 32.03570575393075,
+    "UNIT_NAME": "Organ Pipe Cactus National Monument",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -107.16733906243176,
+    "Y": 38.462850244297215,
+    "UNIT_NAME": "Curecanti National Recreation Area",
+    "STATE": "CO",
+    "UNIT_TYPE": "National Recreation Area"
+  },
+  {
+    "X": -107.72572305482204,
+    "Y": 38.579060800184806,
+    "UNIT_NAME": "Black Canyon of the Gunnison National Park",
+    "STATE": "CO",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -97.07035699405964,
+    "Y": 42.766757671728016,
+    "UNIT_NAME": "Missouri National Recreation River",
+    "STATE": "SD",
+    "UNIT_TYPE": "National Recreation River"
+  },
+  {
+    "X": -109.67468595479525,
+    "Y": 34.98864309042477,
+    "UNIT_NAME": "Petrified Forest National Park",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -103.45922269612026,
+    "Y": 46.95359205962568,
+    "UNIT_NAME": "Theodore Roosevelt National Park",
+    "STATE": "ND",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -81.56904389063796,
+    "Y": 41.26123633099512,
+    "UNIT_NAME": "Cuyahoga Valley National Park",
+    "STATE": "OH",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -108.93770284684737,
+    "Y": 40.505966420784326,
+    "UNIT_NAME": "Dinosaur National Monument",
+    "STATE": "CO",
+    "UNIT_TYPE": "National Monument"
+  },
+  {
+    "X": -122.13274715609387,
+    "Y": 42.941065749010036,
+    "UNIT_NAME": "Crater Lake National Park",
+    "STATE": "OR",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -77.04607995402586,
+    "Y": 38.96300587522512,
+    "UNIT_NAME": "Rock Creek Park",
+    "STATE": "DC",
+    "UNIT_TYPE": "Park"
+  },
+  {
+    "X": -86.46665373339644,
+    "Y": 46.512969465525465,
+    "UNIT_NAME": "Pictured Rocks National Lakeshore",
+    "STATE": "MI",
+    "UNIT_TYPE": "National Lakeshore"
+  },
+  {
+    "X": -94.23162009229962,
+    "Y": 30.34087509605403,
+    "UNIT_NAME": "Big Thicket National Preserve",
+    "STATE": "TX",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -87.0325333376877,
+    "Y": 41.661415211657406,
+    "UNIT_NAME": "Indiana Dunes National Lakeshore",
+    "STATE": "IN",
+    "UNIT_TYPE": "National Lakeshore"
+  },
+  {
+    "X": -90.57955662072861,
+    "Y": 46.93671618408021,
+    "UNIT_NAME": "Apostle Islands National Lakeshore",
+    "STATE": "WI",
+    "UNIT_TYPE": "National Lakeshore"
+  },
+  {
+    "X": -93.4096753290962,
+    "Y": 37.09981885693986,
+    "UNIT_NAME": "Wilson's Creek National Battlefield",
+    "STATE": "MO",
+    "UNIT_TYPE": "National Battlefield"
+  },
+  {
+    "X": -113.8584100751731,
+    "Y": 48.74680026649589,
+    "UNIT_NAME": "Glacier National Park",
+    "STATE": "MT",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -110.60790076075337,
+    "Y": 32.178707235195944,
+    "UNIT_NAME": "Saguaro National Park",
+    "STATE": "AZ",
+    "UNIT_TYPE": "National Park"
+  },
+  {
+    "X": -115.5143518908101,
+    "Y": 35.114183531030356,
+    "UNIT_NAME": "Mojave National Preserve",
+    "STATE": "CA",
+    "UNIT_TYPE": "National Preserve"
+  },
+  {
+    "X": -88.56870595652916,
+    "Y": 47.138156141811415,
+    "UNIT_NAME": "Keweenaw National Historical Park",
+    "STATE": "MI",
+    "UNIT_TYPE": "National Historical Park"
+  }
+]
