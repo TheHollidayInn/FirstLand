@@ -1,5 +1,7 @@
 import NationalParks from '../data/national-parks.json'
 import IndigenousLand from '../data/indigenous-land.json'
+import WikiNationalParks from '../data/wikiParks.json'
+
 const inside = require('../libs/point-in-polygon');
 
 
@@ -9,6 +11,9 @@ NationalParks.forEach(p => {
     const isInside = inside([ p.X, p.Y ], l.geometry.coordinates[0])
     if (isInside) p.nativeLand.push(l.properties.Name)
   })
+
+  const matchWiki = WikiNationalParks.filter(wp => p.UNIT_NAME.indexOf(wp.title.replace("\n", "")) !== -1);
+  if (matchWiki.length > 0) p.image = matchWiki[0].image
 })
 
 
