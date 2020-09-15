@@ -11,10 +11,11 @@ body {
   font-family: "Calibre", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.42;
-  color: #333333;
-  background-color: #f7f7f7;
+  /* color: #333333; */
+  color: #91471D;
+  /* background-color: #f7f7f7; */
+   background: #DAD1C1;
   margin: 0;
-  /* background: #F2FfFf; */
   padding-bottom: 6rem;
 }
 
@@ -31,7 +32,7 @@ nav {
 }
 
 nav h1 {
-  margin: 0;
+  margin: 0 auto;
 }
 
 nav h1 a {
@@ -45,10 +46,10 @@ nav ul li {
 
 nav a {
   text-decoration: none;
-  /* color: #40d9ac; */
-  color: rgb(51, 51, 51);
-  /* font-weight: 600; */
+  /* color: rgb(51, 51, 51); */
+  color: #91471D;
   font-size: 16px;
+  text-align: center;
 }
 
 #nav-links {
@@ -64,15 +65,18 @@ main, header {
   margin: 0 auto;
   margin-top: 0;
   margin-bottom: 0;
+  color: #737661;
 }
 
 header {
   margin-bottom: 3rem;
+  text-align: center;
 }
 
 header h4 {
   width: 50%;
   font-size: 1rem;
+  margin: 0 auto;
 }
 
 .home-title {
@@ -117,6 +121,7 @@ header h4 {
   display: flex;
   vertical-align: middle;
   justify-content: space-between;
+  border-radius: 4px;
 }
 
 .search-bar input {
@@ -132,10 +137,10 @@ header h4 {
   padding: 10px 15px;
   font-size: 1.2em;
   font-weight: 700;
-  border: 3px solid #40d9ac;
-  background-color: #40d9ac;
+  border: 3px solid #91471D;
+  background-color: #91471D;
   box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.1);
-  color: #26856a;
+  color: #DAD1C1;
   border-radius: 4px;
   min-width: 20%;
 }
