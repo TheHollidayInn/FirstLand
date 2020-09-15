@@ -35,7 +35,7 @@ function HomePage() {
     <Nav />
 
     <header>
-      <h2 className="home-title">Learn about the Land You Hike on</h2>
+      <h2 className="home-title">Whose Land Are You Hiking On</h2>
       <h4>Search for a National Park and learn about the tribes that lived there.</h4> 
     </header>
 
