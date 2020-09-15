@@ -5,7 +5,7 @@ export default function () {
     <nav>
       <h1>
         <Link href="/">
-          <a>FirstLand</a>
+          <a>FirstLand (Beta)</a>
         </Link>
       </h1>
 
