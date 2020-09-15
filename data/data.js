@@ -1,6 +1,7 @@
 import NationalParks from '../data/national-parks.json'
 import IndigenousLand from '../data/indigenous-land.json'
 import WikiNationalParks from '../data/wikiParks.json'
+import TribeLinks from './tribeLinks.json'
 
 const inside = require('../libs/point-in-polygon');
 
@@ -9,7 +10,18 @@ NationalParks.forEach(p => {
   IndigenousLand.features.forEach(l => {
     if (!p.nativeLand) p.nativeLand = []
     const isInside = inside([ p.X, p.Y ], l.geometry.coordinates[0])
-    if (isInside) p.nativeLand.push(l.properties.Name)
+    if (isInside) {
+      const matchTribe = TribeLinks.filter(tl => tl.name.indexOf(l.properties.Name) !== -1)
+      let link;
+      if (matchTribe.length > 0) {
+        link = `https://en.wikipedia.org${matchTribe[0].link}`
+      }
+
+      p.nativeLand.push({
+        name: l.properties.Name,
+        link,
+      })
+    }
   })
 
   const matchWiki = WikiNationalParks.filter(wp => p.UNIT_NAME.indexOf(wp.title.replace("\n", "")) !== -1);

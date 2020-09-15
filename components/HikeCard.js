@@ -75,7 +75,12 @@ export default function RecipeReviewCard(props) {
           {props.description}
         </Typography> */}
         <Typography variant="body2" color="textSecondary" component="p">
-          Tribes: {props.nativeLand.join(", ")}
+          Tribes: {props.nativeLand
+            .map(nl => (
+              <span style={{marginRight: '.2rem'}}>
+                <a target="_blank" href={nl.link}>{nl.name}</a>,
+              </span>
+            ))}
         </Typography>
       </CardContent>
       <CardActions disableSpacing>

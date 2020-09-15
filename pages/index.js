@@ -35,8 +35,8 @@ function HomePage() {
     <Nav />
 
     <header>
-      <h2 className="home-title">Find Whose Land You Hike On.</h2>
-      <h4>Search for a National Park and find which Tribes' land</h4> 
+      <h2 className="home-title">Learn about the Land You Hike on</h2>
+      <h4>Search for a National Park and learn about the tribes that lived there.</h4> 
     </header>
 
     <SearchBar onChange={(e) => setFilters({...filters, search: e.target.value})} />
@@ -45,6 +45,7 @@ function HomePage() {
       <div className="trail-wrap">
         {
           filteredTrails.map(t => {
+
             return (
               <div class="col" p={1} key={t.title}>
                 <RecipeReviewCard 
