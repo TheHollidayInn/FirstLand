@@ -16,6 +16,7 @@ import ShareIcon from '@material-ui/icons/Share';
 import Button from '@material-ui/core/Button';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import Link from 'next/link'
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 
 const useStyles = makeStyles((theme) => ({
@@ -51,11 +52,16 @@ export default function RecipeReviewCard(props) {
 
   return (
     <Card className={classes.root}>
-      <CardMedia
+      <LazyLoadImage
         className={classes.media}
-        image={props.image}
-        title={props.title}
+        src={props.image}
+        style={{paddingTop: 0, width: "100%", height: "200px"}}
       />
+      {/* <CardMedia
+        className={classes.media}
+        image={}
+        title={props.title}
+      /> */}
       <CardHeader
         // avatar={
         //   <Avatar aria-label="recipe" className={classes.avatar}>
