@@ -88,14 +88,12 @@ header h4 {
 }
 
 .trail-wrap {
-  /* flex-flow: wrap !important; */
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
 }
 
 .col {
-  /* flex-basis: 100%; */
   min-width: 360px;
   height: 300px;
   margin-bottom: 4rem;
@@ -327,4 +325,27 @@ header h4 {
   text-decoration: none;
   padding: .7rem 1rem;
   margin-bottom: .5rem;
+}
+
+
+/* Mobile */
+
+@media only screen and (max-width: 600px) {
+  .col {
+    width: 90%;
+    min-width: 0;
+    margin: 2rem auto;
+  }
+
+  .search-bar {
+    width: 90%;
+  }
+
+  .search-bar input {
+    width: 100%;
+  }
+
+  .search-bar button {
+    display: none;
+  }
 }

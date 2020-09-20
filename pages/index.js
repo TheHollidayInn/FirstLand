@@ -1,18 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import Box from '@material-ui/core/Box';
 
 import RecipeReviewCard from '../components/HikeCard'
 import SearchBar from '../components/SearchBar'
 import Nav from '../components/Nav'
 import NationalParks from '../data/data'
-
-function getRandomIntInclusive(min, max) {
-  min = Math.ceil(min);
-  max = Math.floor(max);
-  return Math.floor(Math.random() * (max - min + 1) + min); //The maximum is inclusive and the minimum is inclusive 
-}
-
-const randomIndex = getRandomIntInclusive(0, NationalParks.length - 3)
 
 function HomePage() {
   const [filters, setFilters] = useState({
@@ -29,7 +20,7 @@ function HomePage() {
       if (filters.search) canshow &= t.title.toLocaleLowerCase().indexOf(filters.search.toLocaleLowerCase()) != -1
       return canshow
     })
-    .slice(0, 30);
+    .slice(0, 12);
 
   return <div>
     <Nav />
