@@ -337,6 +337,10 @@ header h4 {
     margin: 2rem auto;
   }
 
+  .col .MuiPaper-root {
+    margin: 0 auto;
+  }
+
   .search-bar {
     width: 90%;
   }
