@@ -1,8 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import Nav from '../components/Nav'
-import NationalParks from '../data/data'
-import TimeLine from '../components/TimeLine'
+import Timeline from '../components/Timeline'
 
 function TimeLinePage() {
   return <div>
@@ -13,7 +12,7 @@ function TimeLinePage() {
       {/* <h4>A description.</h4>  */}
     </header>
 
-    <TimeLine />
+    <Timeline />
   </div>
 }
 
