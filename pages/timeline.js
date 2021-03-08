@@ -8,7 +8,7 @@ function TimeLinePage() {
     <Nav />
 
     <header>
-      <h2 className="home-title">History of Important Native American Acts</h2>
+      <h2 className="home-title">Federal Indian Law Timeline</h2>
       {/* <h4>A description.</h4>  */}
     </header>
 
