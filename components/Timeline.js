@@ -7,8 +7,8 @@ const TimeLine = () => {
         "title": 1823,
         "cardTitle": "Johnson v. M’Intosh",
         "cardSubtitle": "Johnson v. M'Intosh, 21 U.S. (8 Wheat.) 543 (1823)",
-        "cardDetailedText": "Johnson v. M'Intosh, 21 U.S. 543, is a landmark decision of the U.S. Supreme Court that held that private citizens could not purchase lands from Native Americans. https://www.oyez.org/cases/1789-1850/21us543",
-        "Link": "https://www.oyez.org/cases/1789-1850/21us543",
+        "cardDetailedText": "Johnson v. M'Intosh, 21 U.S. 543, is a landmark decision of the U.S. Supreme Court that held that private citizens could not purchase lands from Native Americans.",
+        "Link": "https://i.ytimg.com/vi/iIUa0yDFQ20/hqdefault.jpg",
         media: {
           type: "IMAGE",
           source: {
@@ -20,7 +20,7 @@ const TimeLine = () => {
         "title": 1831,
         "cardTitle": "Cherokee Nation v. Georgia",
         "cardSubtitle": "Cherokee Nation v. Georgia, 30 U.S. (5 Pet.) 1\n(1831)",
-        "cardDetailedText": "In 1828, the Cherokee Nation sought an injunction from the Supreme Court to prevent the state of Georgia from enforcing a series of laws stripping the Cherokee people of their rights and displacing them from their land, asserting that the laws violated treaties the Cherokees had negotiated with the United States. In the case of Cherokee Nation v. Georgia, the Court ruled that the Cherokees did not constitute a foreign nation within the meaning of Article III of the Constitution – which extended the judicial power of the United States to cases between a state and a foreign nation – and that it therefore lacked jurisdiction to hear the claims of an Indian nation against the state in which it resided.",
+        "cardDetailedText": "Cherokee Nations v. Georgia, 30 U.S. (5 Pet.) 1 (1831), was a United States Supreme Court case. The Cherokee Nation sought a federal injunction against laws passed by the U.S. state of Georgia depriving them of rights within its boundaries, but the Supreme Court did not hear the case on its merits.",
         "Link": "https://supreme.justia.com/cases/federal/us/30/1/",
         media: {
           source: {
@@ -100,12 +100,12 @@ const TimeLine = () => {
         "cardSubtitle": "United States v. Sandoval, 231 U.S. 28 (1913)",
         "cardDetailedText": "United States v. Sandoval, 231 U.S. 28 (1913), was a United States Supreme Court case deciding whether the federal government's law prohibiting liquor on the land of Santa Clara Pueblo impermissibly infringed on the State of New Mexico's police power under the equal footing doctrine.",
         "Link": "https://supreme.justia.com/cases/federal/us/231/28/",
-        // media: {
-        //   source: {
-        //     url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Worcester.jpg/1200px-Worcester.jpg",
-        //   },
-        //   type: "IMAGE",
-        // },
+        media: {
+          source: {
+            url: "https://en.wikipedia.org/wiki/File:Holm_Bursum.jpg",
+          },
+          type: "IMAGE",
+        },
       },
       {
         "title": 1942,
@@ -126,12 +126,12 @@ const TimeLine = () => {
         "cardSubtitle": "Williams v. Lee, 358 U.S. 217 (1959)",
         "cardDetailedText": "Williams v. Lee, 358 U.S. 217 (1959), was a landmark case in which the Supreme Court of the United States held that the State of Arizona does not have jurisdiction to try a civil case between a non-Indian doing business on a reservation with tribal members who reside on the reservation, the proper forum for such cases being the tribal court.",
         "Link": "https://supreme.justia.com/cases/federal/us/358/217/",
-        // media: {
-        //   source: {
-        //     url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Worcester.jpg/1200px-Worcester.jpg",
-        //   },
-        //   type: "IMAGE",
-        // },
+        media: {
+          source: {
+            url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Members_Of_The_Alamo_Navajo_Reservation.jpg/230px-Members_Of_The_Alamo_Navajo_Reservation.jpg"
+          },
+          type: "IMAGE",
+        },
       },
       {
         "title": 1976,
@@ -141,7 +141,7 @@ const TimeLine = () => {
         "Link": "https://supreme.justia.com/cases/federal/us/426/373/",
         media: {
           source: {
-            url: "https://i1.wp.com/www.leechlakenews.com/wp-content/uploads/2018/06/bvitasca.jpg?resize=750%2C430&ssl=1",
+            url: "https://en.wikipedia.org/wiki/File:US_Supreme_Court_Justice_William_Brennan_-_1976_official_portrait.jpg",
           },
           type: "IMAGE",
         },
@@ -152,12 +152,12 @@ const TimeLine = () => {
         "cardSubtitle": "Oliphant v. Suquamish Indian Tribe, 435 U.S. 191 (1978)",
         "cardDetailedText": "Oliphant v. Suquamish Indian Tribe, 435 U.S. 191 (1978), is a United States Supreme Court case deciding that Indian tribal courts have no criminal jurisdiction over non-Indians. The case was decided on March 6, 1978 with a 6-2 majority.",
         "Link": "https://supreme.justia.com/cases/federal/us/435/191/",
-        // media: {
-        //   source: {
-        //     url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Worcester.jpg/1200px-Worcester.jpg",
-        //   },
-        //   type: "IMAGE",
-        // },
+        media: {
+          source: {
+            url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Thurgood-marshall-2.jpg/220px-Thurgood-marshall-2.jpg",
+          },
+          type: "IMAGE",
+        },
       },
       {
         "title": 1978,
@@ -191,12 +191,12 @@ const TimeLine = () => {
         "cardSubtitle": "Washington v. Confederated Tribes, 447 U.S. 134 (1980)",
         "cardDetailedText": "Washington v. Confederated Bands and Tribes of the Yakima Indian Nation, 439 U.S. 463 (1979), was a case in which the Supreme Court of the United States held that the State of Washington's imposition of partial jurisdiction over certain actions on an Indian reservation, when not requested by the tribe, was valid under Public Law 280.",
         "Link": "https://supreme.justia.com/cases/federal/us/447/134/",
-        // media: {
-        //   source: {
-        //     url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Worcester.jpg/1200px-Worcester.jpg",
-        //   },
-        //   type: "IMAGE",
-        // },
+        media: {
+          source: {
+            url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Yakima_Indian_Reservation_map.png/200px-Yakima_Indian_Reservation_map.png",
+          },
+          type: "IMAGE",
+        },
       },
       {
         "title": 1981,
@@ -241,7 +241,7 @@ const TimeLine = () => {
         "title": 1985,
         "cardTitle": "Nat'l Farmers Union Ins. v. Crow Tribe",
         "cardSubtitle": "Nat'l Farmers Union Ins. v. Crow Tribe, 468 U.S. 1315 (1984)",
-        "cardDetailedText": "National Farmers Union Insurance Cos. v. Crow Tribe of Indians. Media. Oral Argument - April 16, 1985; Opinions. Syllabus ; View Case ; Petitioner National Farmers Union Insurance Cos. Respondent Crow Tribe of Indians . Docket no. 84-320 . Decided by Burger Court .",
+        "cardDetailedText": "https://supreme.justia.com/cases/federal/us/468/1315",
         "Link": "https://supreme.justia.com/cases/federal/us/468/1315/",
         // media: {
         //   source: {
@@ -256,12 +256,12 @@ const TimeLine = () => {
         "cardSubtitle": "Montana v. Blackfeet Tribe, 471 U.S. 759 (1985)",
         "cardDetailedText": "Respondent Blackfeet Tribe filed this suit in the United States District Court for the District of Montana challenging the application of several Montana taxes 1 to the Tribe's royalty interests in oil and gas produced under leases issued by the Tribe.",
         "Link": "https://supreme.justia.com/cases/federal/us/471/759/",
-        media: {
-          source: {
-            url: "https://bloximages.chicago2.vip.townnews.com/sidneyherald.com/content/tncms/assets/v3/editorial/5/c5/5c543374-84e1-11e5-8e95-6ff09cffb603/563d3d3e8931c.image.jpg",
-          },
-          type: "IMAGE",
-        },
+        // media: {
+        //   source: {
+        //     url: "https://bloximages.chicago2.vip.townnews.com/sidneyherald.com/content/tncms/assets/v3/editorial/5/c5/5c543374-84e1-11e5-8e95-6ff09cffb603/563d3d3e8931c.image.jpg",
+        //   },
+        //   type: "IMAGE",
+        // },
       },
       {
         "title": 1985,
@@ -321,12 +321,12 @@ const TimeLine = () => {
         "cardSubtitle": "Duro v. Reina, 495 U.S. 676 (1990)",
         "cardDetailedText": "Duro v. Reina, 495 U.S. 676 (1990), was a United States Supreme Court case in which the Court concluded that Indian tribes could not prosecute Indians who were members of other tribes for crimes committed by those nonmember Indians on their reservations. The decision was not well received by the tribes, because it defanged their criminal codes by depriving them of the power to enforce them ..",
         "Link": "https://supreme.justia.com/cases/federal/us/495/676/",
-        // media: {
-        //   source: {
-        //     url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Worcester.jpg/1200px-Worcester.jpg",
-        //   },
-        //   type: "IMAGE",
-        // },
+        media: {
+          source: {
+            url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Maricopa_County_Incorporated_and_Planning_areas_SRPMIC_highlighted.svg/220px-Maricopa_County_Incorporated_and_Planning_areas_SRPMIC_highlighted.svg.png",
+          },
+          type: "IMAGE",
+        },
       },
       {
         "title": 1990,
